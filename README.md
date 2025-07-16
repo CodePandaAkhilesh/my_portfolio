@@ -16,30 +16,6 @@ This site showcases my **projects**, **skills**, **certifications**, **experienc
 
 ---
 
-## 📁 Folder Structure
-
-portfolio/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── Header.jsx
-│ │ ├── Hero.jsx
-│ │ ├── About.jsx
-│ │ ├── Experience.jsx
-│ │ ├── Projects.jsx
-│ │ ├── Skills.jsx
-│ │ ├── Certifications.jsx
-│ │ ├── Contact.jsx
-│ │ └── Footer.jsx
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-├── index.html
-└── vite.config.js
-
-
----
-
 ## 🔧 Setup Instructions
 
 ```bash
