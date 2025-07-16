@@ -13,7 +13,7 @@ This site showcases my **projects**, **skills**, **certifications**, **experienc
 
 - **Frontend**: React.js, Tailwind CSS, Vite
 - **Design**: Mobile-first responsive layout
-- **Hosting**: Vercel / GitHub Pages *(add deployment platform)*
+- **Hosting**: Vercel
 
 ---
 
