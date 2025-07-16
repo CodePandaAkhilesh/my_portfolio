@@ -1,7 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar'
-// import imghero from '/imghero.webp'
-import Photo from '/PASSPORT_SIZE.jpeg'
+import Akhilesh from '/akhilesh.webp'
 import Resume from '/RESUME.pdf';
 import { ReactTyped } from "react-typed";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
@@ -61,7 +60,7 @@ const Hero = () => {
             </a>
         </section>
         <figure data-aos='fade-up' data-aos-delays='500' className='flex-1 flex justify-center md:justify-end mt-0'>
-          <img src={Photo} alt="Hero Image" className="h-[250px] w-[250px] sm:h-[480px] sm:w-[480px] object-cover rounded-full"></img>
+          <img src={Akhilesh} alt="Hero Image" className="h-[250px] w-[250px] sm:h-[480px] sm:w-[480px] object-cover rounded-full"></img>
         </figure>
       </main>
     </div>
