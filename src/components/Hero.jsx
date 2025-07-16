@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar'
-import Akhilesh from '/akhilesh.webp'
+import Akhilesh from '/akhilesh.jpeg'
 import Resume from '/RESUME.pdf';
 import { ReactTyped } from "react-typed";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
