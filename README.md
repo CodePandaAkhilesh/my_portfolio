@@ -21,8 +21,8 @@ This site showcases my **projects**, **skills**, **certifications**, **experienc
 
 ```bash
 # Clone the repo
-git clone https://github.com/CodePandaAkhilesh/portfolio.git
-cd portfolio
+git clone https://github.com/CodePandaAkhilesh/my_portfolio.git
+cd my_portfolio
 
 # Install dependencies
 npm install
