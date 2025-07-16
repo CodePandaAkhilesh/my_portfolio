@@ -98,7 +98,6 @@ function Contact() {
               {errors.message && <span className="text-red-400">This field is required</span>}
             </div>
             <button
-            onClick={() => toast.success('This is a success toast!')}
               type="submit"  // <-- Added this line
               className='w-full text-white border-2 py-2 px-6 focus:outline-none hover:bg-[#801b9c] hover:shadow-[0_0_40px_rgba(128,0,128,0.7)] rounded-full text-lg'
             >
