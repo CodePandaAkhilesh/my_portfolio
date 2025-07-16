@@ -1,7 +1,7 @@
 # 🌐 Akhilesh Verma — Portfolio Website
 
 Welcome to my personal portfolio website built with **React.js** and **Tailwind CSS**.  
-This site showcases my **projects**, **skills**, **certifications**, **experience**, and ways to connect with me.
+This site showcases my **projects**, **skills**, **experience**, and ways to connect with me.
 
 🔗 [Live Demo](https://my-portfolio-kappa-jade-29.vercel.app/) 
 
